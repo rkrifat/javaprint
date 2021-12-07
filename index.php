@@ -33,4 +33,5 @@ var a= document.getElementById('name').innerHTML;
 var refreshTime = a.toString();
 var foo = document.write('<meta http-equiv="refresh" content="'+refreshTime+';url=http://www.google.com">');
 </script>
-//sdfjk
+//sdfjk 
+// new colone
